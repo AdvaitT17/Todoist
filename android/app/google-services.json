@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75754626516",
+    "project_id": "todoist-firestore-b7481",
+    "storage_bucket": "todoist-firestore-b7481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75754626516:android:ca909c70c976ba57610a41",
+        "android_client_info": {
+          "package_name": "com.example.todoist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBwX5RtZEMOsFB9yICHrvUahoU_qw92ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
